@@ -4,18 +4,18 @@
   "town":"Ermont",
   "yellow":{"dayOfWeek":"tuesday",
             "timeOfDay":"07:00",
-             "frequency":"weekly"},
+            "frequency":"weekly"},
   "brown":{"dayOfWeek":"friday",
             "timeOfDay":"09:00"
-             "frequency":"weekly"},
+            "frequency":"weekly"}
   },
 {
   "town":"Sannois",
    "yellow":{"dayOfWeek":"monday",
             "timeOfDay":"07:00",
-             "frequency":"weekly"},
+            "frequency":"weekly"},
   "brown":{"dayOfWeek":"tuesday",
             "timeOfDay":"16:00",
-             "frequency":"weekly"},
+            "frequency":"weekly"}
 }
   ]
