@@ -1,7 +1,7 @@
 
 [
   {
-  "town":"Ermont",
+  "town":"Cupertino",
   "yellow":{"dayOfWeek":"tuesday",
             "timeOfDay":"07:00",
             "frequency":"weekly"},
@@ -10,7 +10,7 @@
             "frequency":"weekly"}
   },
 {
-  "town":"Sannois",
+  "town":"Paris",
    "yellow":{"dayOfWeek":"monday",
             "timeOfDay":"07:00",
             "frequency":"weekly"},
