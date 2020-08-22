@@ -2,10 +2,13 @@
 [
   {
   "town":"Ermont",
-  "yellow":["monday","07:00"] 
-},
+  "yellow": {"monday":"07:00",
+             "frequency":"weekly"}
+  },
+  
 {
   "town":"Sannois",
-  "yellow":["tuesday","16:00"]
+  "yellow": {"tuesday":"08:00",
+             "frequency":"weekly"}
 }
   ]
