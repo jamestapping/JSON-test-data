@@ -2,10 +2,10 @@
 [
   {
   "town":"Ermont",
-  "yellow":["monday":"07:00"] 
+  "yellow":["monday","07:00"] 
 },
 {
   "town":"Sannois",
-  "yellow":["tuesday":"16:00"]
+  "yellow":["tuesday","16:00"]
 }
   ]
