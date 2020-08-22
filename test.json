@@ -6,7 +6,7 @@
             "timeOfDay":"07:00",
             "frequency":"weekly"},
   "brown":{"dayOfWeek":"friday",
-            "timeOfDay":"09:00"
+            "timeOfDay":"09:00",
             "frequency":"weekly"}
   },
 {
