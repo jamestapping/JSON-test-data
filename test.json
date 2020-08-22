@@ -1,9 +1,11 @@
 
-[{
+[
+  {
   "Town":"Ermont",
   "Yellow":"Monday"
 },
 {
   "Town":"Sannois",
   "Yellow":"Tuesday"
-}]
+}
+  ]
