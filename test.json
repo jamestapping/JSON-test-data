@@ -3,7 +3,7 @@
   {
   "town":"Ermont",
   "yellow":{"dayOfWeek":"tuesday",
-            "timeOfDay":"07:00"
+            "timeOfDay":"07:00",
              "frequency":"weekly"},
   "brown":{"dayOfWeek":"friday",
             "timeOfDay":"09:00"
@@ -12,10 +12,10 @@
 {
   "town":"Sannois",
    "yellow":{"dayOfWeek":"monday",
-            "timeOfDay":"07:00"
+            "timeOfDay":"07:00",
              "frequency":"weekly"},
   "brown":{"dayOfWeek":"tuesday",
-            "timeOfDay":"16:00"
+            "timeOfDay":"16:00",
              "frequency":"weekly"},
 }
   ]
