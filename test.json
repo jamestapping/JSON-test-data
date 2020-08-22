@@ -2,16 +2,16 @@
 [
   {
   "town":"Ermont",
-  "yellow": {"monday":"07:00",
+  "yellow":{"monday":"07:00",
              "frequency":"weekly"},
-  "brown":  {"thursday":"17:00",
+  "brown":{"thursday":"17:00",
              "frequency":"weekly"}
   },
 {
   "town":"Sannois",
-  "yellow": {"tuesday":"08:00",
-             "frequency":"weekly"},
-  "brown":  {"thursday":"17:00",
-             "frequency":"weekly"}
+  "yellow":{"tuesday":"08:00",
+            "frequency":"weekly"},
+  "brown":{"thursday":"17:00",
+           "frequency":"weekly"}
 }
   ]
